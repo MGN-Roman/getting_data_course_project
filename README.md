@@ -1,4 +1,4 @@
-getting_data_course_project
+Getting and Clearing Data course project
 ===========================
 
 This file contains information on how "run_analysis.R" and "run_analysis_main_code.R" files work.
